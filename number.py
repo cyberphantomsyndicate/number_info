@@ -1,1 +1,3 @@
-print('Sei din scale er kotha kno extra pakamo jiges korli O kokhon toke msg koreche? Kire 915 te Oh O kikore janlo? Moi ki kore janbo Acha bad')
+a=int(input("enter first number : "))
+b=int(input("enter second number : "))
+print("sum of",a, "and",b,"is",a+b)
