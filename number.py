@@ -8,7 +8,7 @@ def startMessage ():
         print (Fore .RED +'[X] wrong code')
         print (Fore .BLUE +''' 
    1. Join my Telegram Group for Code 
-   2. Group Link:https://t.me/Termux_official_01
+   2. insta Id qadirahmad43
    3. Send massage for code
    4. Next time come with code and use this tool
    5. bye
