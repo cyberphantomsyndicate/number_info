@@ -3,12 +3,12 @@ from colorama import Fore ,Back ,Style ,init
 init (autoreset =True )
 def startMessage ():
     OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code: ")
-    OOOO0OO000OO0OOOO ="Jaan"
+    OOOO0OO000OO0OOOO ="CPS"
     if OOOO0OO000OO0OOOO !=OO0O0OO0OOO0OO0O0 :
         print (Fore .RED +'[X] wrong code')
         print (Fore .BLUE +''' 
    1. Join my Telegram Group for Code 
-   2. insta Id cybershielddefender
+   2. insta Id cyberphantomsyndicate
    3. Send massage for code
    4. Next time come with code and use this tool
    5. bye
